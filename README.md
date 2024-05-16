@@ -7,7 +7,7 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
 
-Register Number: 212223230099
+Register Number: 212223230106
 ```Import pandas ,sklearn.linear_model modules and create the corresponding objects.
 ### Step2
 Read the given csv file using read_csv() method of pandas.
@@ -21,7 +21,7 @@ Predict the CO2 emission of a car where the Weight is 3300 kg and the Volume is 
 Display the predicted output and end the program.
 ## Program:
 ```
-Developed by: Karan A
+Developed by: Kishore.N
 ```py
 import pandas as pd
 from sklearn import linear_model
